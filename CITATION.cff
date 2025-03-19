@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: smith-embedding
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Federico
+    family-names: Bertacco
+    affiliation: Imperial College London
+  - given-names: Ewain
+    family-names: Gwynne
+    affiliation: The University of Chicago
+  - given-names: Scott
+    family-names: Sheffield
+    affiliation: MIT
+identifiers:
+  - type: url
+    value: 'https://github.com/federico-bertacco/smith-embedding'
